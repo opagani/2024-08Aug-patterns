@@ -1,0 +1,7 @@
+reuven tried to log out, but could not
+reuven logged in
+otheruser tried to log in, but could not
+otheruser logged in
+reuven logged out
+asfdas tried to log out, but could not
+otheruser logged out
